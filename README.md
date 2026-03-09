@@ -21,7 +21,7 @@
 
 ## 🧩 Sobre o Projeto
 
-Este projeto consiste em um **dashboard interativo de vendas**, proposto por um Desafio da DIO e desenvolvido para facilitar a interpretação de grandes volumes de dados comerciais. A partir de uma base de dados estruturada, o sistema processa e apresenta as informações de forma visual, intuitiva e acionável.
+Este projeto consiste em um **dashboard interativo de vendas**, proposto por um Desafio da DIO e desenvolvido para facilitar a interpretação de dados comerciais. A partir de uma base de dados estruturada, o sistema processa e apresenta as informações de forma visual, intuitiva e acionável.
 
 
 
